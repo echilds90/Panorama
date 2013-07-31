@@ -3,7 +3,7 @@ Panorama
 
 A project to build a panorama automatically 
 
-To create a panorama call
+To create a panorama make the following call in the src directory
 
 python Panorama.py -d imageDirectoryName -m middleImage
 
